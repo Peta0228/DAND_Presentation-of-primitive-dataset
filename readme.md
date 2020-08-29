@@ -1,16 +1,15 @@
-# (ProsperLoan Dataset Exploration)
+# ProsperLoan Analysis, Bad Loan and Borrower APR 
 ## by Peter Wu
-
 
 ## Dataset
 
-This data set contains 113,937 loans with 81 variables on each loan, 
+This dataset contains 113,937 loans with 81 variables on each loan, 
 including loan amount, borrower rate, current loan status, borrower income, and many others. 
 The dataset can be found in a 
 repository for Amazon's AWS [here]( https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv),
 with feature documentation available [here](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1554484977407000).
 
-The goal of this analysis was set to determine two things:  first, which features are best at predicting the `LoanStatus`; second, which features determine the `BorrowerAPR `  and  `BorrowerRate` at most?
+The goal of this analysis was set to determine two things:  first, which features are best at predicting the `LoanStatus`; second, which field best determine the `BorrowerAPR `  and  `BorrowerRate` at most?
 
 ## Summary of Findings
 
